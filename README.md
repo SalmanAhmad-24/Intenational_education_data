@@ -53,7 +53,7 @@ docker-compose up --build
    
 ### Access the Airflow UI
 
-Navigate to: http://localhost:8080
+Navigate to:http://localhost:8081
 
 Username: airflow
 
